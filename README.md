@@ -14,7 +14,7 @@
 
 Life is too short to read repository.<br>
 Click &nbsp;
-<a href="#"><img src="./image/hire-me.png" width="40px"></a> &nbsp; and Recuit me!
+<a href="#"><img src="./image/hireme.png" width="40px"></a> &nbsp; and Recuit me!
 
 If hardworks pays, show me rich donkey.
 
