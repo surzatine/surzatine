@@ -20,7 +20,7 @@ If hardworks pays, show me rich donkey.
 
 </br>
 
-👨‍💻 Blog: <a href="surzatine.github.io">surzatine.github.io</a>
+👨‍💻 Blog: <a href="https://surzatine.github.io">surzatine.github.io</a>
 <br/></br>
 <table>
 <tr>
