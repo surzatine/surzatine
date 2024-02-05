@@ -19,6 +19,8 @@ Click &nbsp;
 If hardworks pays, show me rich donkey.
 
 </br>
+👨‍💻 Blog: <a href="surzatine.github.io">surzatine.github.io</a>
+<br/>
 <table>
 <tr>
 <td>5</td>
