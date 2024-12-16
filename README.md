@@ -1,7 +1,6 @@
 # 💫 About Me: surzatine.github.io
 
 
-![](https://masterbundles.com/wp-content/uploads/2023/03/profile-icon-2-517.jpg)
 [Click Me](https://surzatine.github.io)
 
 I'm currently working on Multiplayer First Person Shooter Video Game<br>I'm currently learning Unity Engine
