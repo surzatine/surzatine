@@ -1,4 +1,4 @@
-
+```diff
 +=========================================================+
 |                                                         |
 |      ██████╗  █████╗ ███╗   ███╗███████╗               |
@@ -9,6 +9,7 @@
 |      ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝               |
 |                                                         |
 +=========================================================+
+```
 
 <h1 align="center">🎮 Welcome to My Game Dev World 🎮</h1>
 <p align="center">
@@ -63,3 +64,41 @@ Hello, I'm **[Your Name]**, a passionate **Game Developer**! I love creating imm
 ---
 
 > "Code is like magic; your imagination is the spell." ✨
+
+> Twitter : @yourusername
+> LinkedIn: yourusername
+> Discord : yourusername#1234
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlPjezGYsP76Pqw/giphy.gif" width="250"/>
+</p>
+
+# 🕹 Player Stats
+
+```text
+Name      : [Your Name]
+Class     : Game Developer 🧙‍♂️
+Level     : 42
+XP        : Infinite
+Guild     : Indie Devs
+Specialty : Unity | Unreal | Godot
+```
+
+---
+
+### ✅ Features of This Retro Game Theme:
+1. **ASCII title screen** like an old RPG.
+2. **Animated GIF avatar** in pixel art style.
+3. **Player stats** section styled as RPG character sheet.
+4. **Project inventory** table as “quests.”
+5. **Portfolio button** looks like a game portal.
+6. **GitHub stats** like XP / achievements HUD.
+7. **Social connections** in retro terminal style.
+8. **Fun in-game quotes** for flavor.
+
+---
+
+If you want, I can **upgrade this further with “leveling progress bars” for skills** and **animated XP bars using shields.io**, so your GitHub README literally looks like a **game HUD interface**.  
+
+Do you want me to do that next?
+
