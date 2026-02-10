@@ -37,11 +37,11 @@
 
 ```
 ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮
-│  CHARACTER CLASS:     Game Developer                        │
-│  LEVEL:               ████████░░ (Continuously Leveling Up) │
-│  SPECIALIZATION:      [Your Specialty - e.g., Unity/Unreal] │
-│  CURRENT LOCATION:    [Your Location]                       │
-│  STATUS:              🟢 Ready to Create Epic Experiences   │
+│  CHARACTER CLASS:     Game Developer                       │
+│  LEVEL:               ████████░░ (Continuously Leveling Up)│
+│  SPECIALIZATION:      [Your Specialty - e.g., Unity/Unreal]│
+│  CURRENT LOCATION:    [Your Location]                      │
+│  STATUS:              🟢 Ready to Create Epic Experiences  │
 ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
 ```
 
