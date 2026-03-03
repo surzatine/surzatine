@@ -23,11 +23,11 @@
 └─────────────────────────────────────────────────────────────┘
 ```
 
-[![Portfolio](https://img.shields.io/badge/🎮_VIEW_PORTFOLIO-FF6B6B?style=for-the-badge&logo=&logoColor=white&labelColor=2C3E50)](YOUR_PORTFOLIO_URL_HERE)
+[![Portfolio](https://img.shields.io/badge/🎮_VIEW_PORTFOLIO-FF6B6B?style=for-the-badge&logo=&logoColor=white&labelColor=2C3E50)](https://surzatine.github.io)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](YOUR_ITCHIO_URL)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge&label=PLAYERS+VISITED)
+![Profile Views](https://komarev.com/ghpvc/?username=surzatine&color=blueviolet&style=for-the-badge&label=PLAYERS+VISITED)
 
 </div>
 
@@ -36,18 +36,18 @@
 ## 🎯 MAIN QUEST: About Me
 
 ```
-╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮
-│  CHARACTER CLASS:     Game Developer                       │
-│  LEVEL:               ████████░░ (Continuously Leveling Up)│
-│  SPECIALIZATION:      [Your Specialty - e.g., Unity/Unreal]│
-│  CURRENT LOCATION:    [Your Location]                      │
-│  STATUS:              🟢 Ready to Create Epic Experiences  │
-╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
+╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮
+│  CHARACTER CLASS:     Game Developer                           │
+│  LEVEL:               ████████░░ (Continuously Leveling Up)    │
+│  SPECIALIZATION:      [Unity, Blender, Multiplayer, Alogrithm] │
+│  CURRENT LOCATION:    [Nepal]                                  │
+│  STATUS:              🟢 Currently Working for MMO game         │
+╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
 ```
 
 🎮 Crafting immersive gaming experiences that captivate players  
 ⚡ Transforming creative visions into interactive realities  
-🌟 Passionate about game mechanics, storytelling, and player engagement  
+🌟 Passionate about game mechanics, scripting, and algorithm  
 🚀 Always exploring new technologies and pushing boundaries
 
 ---
@@ -59,25 +59,25 @@
 ### 🎯 Core Combat Skills
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Fishnet ](https://img.shields.io/badge/Fishnet-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![VisualStudio](https://img.shields.io/badge/VisualStudio-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![GO](https://img.shields.io/badge/go-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🎨 Creative Magic
 
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Substance](https://img.shields.io/badge/Substance-FF6B00?style=for-the-badge&logo=adobe&logoColor=white)
-![Maya](https://img.shields.io/badge/Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![GIMP](https://img.shields.io/badge/Gimp-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Audacity](https://img.shields.io/badge/Audacity-FF6B00?style=for-the-badge&logo=adobe&logoColor=white)
+![KdenLive](https://img.shields.io/badge/LdenLive-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ### ⚙️ Technical Arsenal
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
-![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Nvidia](https://img.shields.io/badge/Nvidia-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![GameGardian](https://img.shields.io/badge/GameGardian-AC162C?style=for-the-badge&logo=vulkan&logoColor=white)
 
 </div>
 
@@ -87,13 +87,13 @@
 
 ```
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  🥇  Published Games                          [ ✓ ]    ┃
-┃  ⭐  Game Jam Participant                     [ ✓ ]    ┃
-┃  🎯  Complex AI Systems                       [ ✓ ]    ┃
+┃  🥇  Build Games                               [ ✓ ]    ┃
+┃  ⭐   Hackathon Participant                     [ ✓ ]    ┃
+┃  🎯  AI Systems                                [ ✓ ]    ┃
 ┃  💡  Multiplayer Networking                    [ ✓ ]    ┃
 ┃  🔥  Performance Optimization Master           [ ✓ ]    ┃
-┃  🎨  Shader Programming                       [ ✓ ]    ┃
-┃  📱  Cross-Platform Development                [ ✓ ]   ┃
+┃  🎨  Shader Programming                        [ ✓ ]    ┃
+┃  📱  Cross-Platform Development                [ ✓ ]    ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
@@ -113,8 +113,8 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/REPO_NAME)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/REPO_NAME)
+[![Among Fury](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/REPO_NAME)
+[![Lan Match Making](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/REPO_NAME)
 
 </div>
 
@@ -171,9 +171,9 @@
 ```
 
 💬 Open for collaborations on game projects  
-🎯 Available for freelance game development  
+🎯 Available for game development  
 📧 Reach me at: **your.email@example.com**  
-🌐 Portfolio: **[Launch Portfolio](YOUR_PORTFOLIO_URL_HERE)**
+🌐 Portfolio: **[Launch Portfolio](https://surzatine.github.io)**
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER)
@@ -185,7 +185,7 @@
 
 ## 💭 DEVELOPER'S NOTES
 
-> *"Games are the most elevated form of investigation."* - Alan Watts
+> *"I create game hoping one day she'll play one with me."* - Surzatine
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
@@ -214,7 +214,7 @@
 
 **Thanks for visiting! May your frame rate be high and your load times low! 🎮**
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Among Fury](https://github.com/surzatine/Among-Fury/blob/output/github-contribution-grid-snake.svg)
 
 ⭐️ **Press START to continue** → Star this profile if you enjoyed it!
 
