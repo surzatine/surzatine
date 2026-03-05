@@ -41,7 +41,7 @@
 │  LEVEL:               ████████░░ (Continuously Leveling Up)    │
 │  SPECIALIZATION:      [Unity, Blender, Multiplayer, Alogrithm] │
 │  CURRENT LOCATION:    [Nepal]                                  │
-│  STATUS:              🟢 Currently Working for MMO game         │
+│  STATUS:              🟢 Currently Working for MMO game        │
 ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
 ```
 
@@ -117,8 +117,8 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-[![Among Fury](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/REPO_NAME)
-[![Lan Match Making](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/REPO_NAME)
+[![Among Fury](https://github-readme-stats.vercel.app/api/pin/?username=surzatine&repo=AmongFury&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/REPO_NAME)
+[![Lan Match Making](https://github-readme-stats.vercel.app/api/pin/?username=surzatine&repo=Cartoon-Multiplayer&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/REPO_NAME)
 
 </div>
 
