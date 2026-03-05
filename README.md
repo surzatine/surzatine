@@ -91,13 +91,13 @@
 
 ```
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  🥇  Build Games                               [ ✓ ]    ┃
-┃  ⭐   Hackathon Participant                     [ ✓ ]    ┃
-┃  🎯  AI Systems                                [ ✓ ]    ┃
-┃  💡  Multiplayer Networking                    [ ✓ ]    ┃
-┃  🔥  Performance Optimization Master           [ ✓ ]    ┃
-┃  🎨  Shader Programming                        [ ✓ ]    ┃
-┃  📱  Cross-Platform Development                [ ✓ ]    ┃
+┃  🥇  Build Games                              [ ✓ ]    ┃
+┃  ⭐  Hackathon Participant                    [ ✓ ]    ┃
+┃  🎯  AI Systems                               [ ✓ ]    ┃
+┃  💡  Multiplayer Networking                   [ ✓ ]    ┃
+┃  🔥  Performance Optimization Master          [ ✓ ]    ┃
+┃  🎨  Shader Programming                       [ ✓ ]    ┃
+┃  📱  Cross-Platform Development               [ ✓ ]    ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
