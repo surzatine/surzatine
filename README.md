@@ -59,25 +59,29 @@
 ### 🎯 Core Combat Skills
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Fishnet ](https://img.shields.io/badge/Fishnet-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
-![VisualStudio](https://img.shields.io/badge/VisualStudio-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![GO](https://img.shields.io/badge/go-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![FishNet](https://img.shields.io/badge/FishNet-313131?style=for-the-badge&logo=unity&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+---
 
 ### 🎨 Creative Magic
 
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![GIMP](https://img.shields.io/badge/Gimp-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Audacity](https://img.shields.io/badge/Audacity-FF6B00?style=for-the-badge&logo=adobe&logoColor=white)
-![KdenLive](https://img.shields.io/badge/LdenLive-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
+![Kdenlive](https://img.shields.io/badge/Kdenlive-527EB2?style=for-the-badge&logo=kdenlive&logoColor=white)
+
+---
 
 ### ⚙️ Technical Arsenal
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Nvidia](https://img.shields.io/badge/Nvidia-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
-![GameGardian](https://img.shields.io/badge/GameGardian-AC162C?style=for-the-badge&logo=vulkan&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![GameGuardian](https://img.shields.io/badge/GameGuardian-AC162C?style=for-the-badge)
 
 </div>
 
