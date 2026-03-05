@@ -134,10 +134,10 @@
 └─────────────────────────────────────────────────────────────┘
 ```
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=00d9ff&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=surzatine&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=00d9ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surzatine&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00D9FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surzatine&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00D9FF)
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
