@@ -117,8 +117,8 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-[![Among Fury](https://github-readme-stats.vercel.app/api/pin/?username=surzatine&repo=AmongFury&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/REPO_NAME)
-[![Lan Match Making](https://github-readme-stats.vercel.app/api/pin/?username=surzatine&repo=Cartoon-Multiplayer&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/REPO_NAME)
+[![Among Fury](https://github-readme-stats.vercel.app/api/pin/?username=surzatine&repo=AmongFury&theme=tokyonight&hide_border=true)](https://github.com/suratine/AmongFury)
+[![Lan Match Making](https://github-readme-stats.vercel.app/api/pin/?username=surzatine&repo=Cartoon-Multiplayer&theme=tokyonight&hide_border=true)](https://github.com/surzatine/Cartoon-Multiplayer)
 
 </div>
 
